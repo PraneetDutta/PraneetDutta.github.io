@@ -1,23 +1,30 @@
-## Hi, I'm Praneet
+# Hi, I'm Praneet!
 
 I'm a Research Engineer @ Google DeepMind working on brining the benefits of AI to the world. Prior to this I was working on an exactly similar role @ Googl Cloud.
 
 
 ### Past Publications
 
-3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement
-[Arxiv](https://arxiv.org/abs/1911.06932)
-[Google AI Page](https://research.google/pubs/pub48693/)
+NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement"
+[Arxiv](https://arxiv.org/abs/1911.06932) <br />
+[Google AI Page](https://research.google/pubs/pub48693/) <br />
 
-AutoML for Contextual Bandits
-[Arxiv](https://arxiv.org/abs/1909.03212)
-[Google AI Page](https://research.google/pubs/pub48534/)
+ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
+[Arxiv](https://arxiv.org/abs/1909.03212) <br />
+[Google AI Page](https://research.google/pubs/pub48534/) <br />
 
 
 ### Public Blogs
 
-RL on GCP
+Deep reinforcement learning on GCP <br/>
 [Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/deep-reinforcement-learning-on-gcp-using-hyperparameters-and-cloud-ml-engine-to-best-openai-gym-games)
+
+Better bandit building: Advanced personalization the easy way with AutoML Tables <br/>
+[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models)
+
+Forseti intelligent agents: an open-source anomaly detection module
+[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/forseti-intelligent-agents-an-open-source-anomaly-detection-module)
+
 
 <!---
 ### Markdown
