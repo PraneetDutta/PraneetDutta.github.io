@@ -17,13 +17,15 @@ ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 ### Public Blogs
 
 Deep reinforcement learning on GCP <br/>
-[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/deep-reinforcement-learning-on-gcp-using-hyperparameters-and-cloud-ml-engine-to-best-openai-gym-games)
+[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/deep-reinforcement-learning-on-gcp-using-hyperparameters-and-cloud-ml-engine-to-best-openai-gym-games)  <br/>
+[Github](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/blogs/rl-on-gcp)
 
 Better bandit building: Advanced personalization the easy way with AutoML Tables <br/>
-[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models)
+[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models)  <br/>
 
-Forseti intelligent agents: an open-source anomaly detection module
-[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/forseti-intelligent-agents-an-open-source-anomaly-detection-module)
+Forseti intelligent agents: an open-source anomaly detection module  <br/>
+[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/forseti-intelligent-agents-an-open-source-anomaly-detection-module)  <br/>
+[Github](https://github.com/forseti-security/forseti-security)  <br/>
 
 
 <!---
