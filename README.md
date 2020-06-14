@@ -1,9 +1,25 @@
-## Welcome to GitHub Pages
+## Hi, I'm Praneet
 
-You can use the [editor on GitHub](https://github.com/PraneetDutta/PraneetDutta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a Research Engineer @ Google DeepMind working on brining the benefits of AI to the world. Prior to this I was working on an exactly similar role @ Googl Cloud.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Past Publications
+
+3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement
+[Arxiv](https://arxiv.org/abs/1911.06932)
+[Google AI Page](https://research.google/pubs/pub48693/)
+
+AutoML for Contextual Bandits
+[Arxiv](https://arxiv.org/abs/1909.03212)
+[Google AI Page](https://research.google/pubs/pub48534/)
+
+
+### Public Blogs
+
+RL on GCP
+[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/deep-reinforcement-learning-on-gcp-using-hyperparameters-and-cloud-ml-engine-to-best-openai-gym-games)
+
+<!---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -35,3 +51,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
