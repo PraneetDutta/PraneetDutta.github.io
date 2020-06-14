@@ -2,7 +2,7 @@
 
 I'm a Research Engineer @ Google DeepMind working on brining the benefits of AI to the world. Prior to this I was working on an exactly similar role @ Google Cloud.
 
-![A Snap from London](/assets/img/deepmind_home_page.png)
+![A Snap from London](/assets/img/deepmind_home_page.jpg)
 
 ## Publications
 
