@@ -2,7 +2,7 @@
 
 I'm a Research Engineer @ Google DeepMind working on brining the benefits of AI to the world. Prior to this I was working on an exactly similar role @ Google Cloud.
 
-![A Snap from London](/assets/images/yaktocat.png)
+![A Snap from London](/assets/img/deepmind_home_page.png)
 
 ## Publications
 
@@ -15,7 +15,7 @@ ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 [Google AI Page](https://research.google/pubs/pub48534/) <br />
 
 
-### Blogs
+## Blogs
 
 Deep reinforcement learning on GCP <br/>
 [Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/deep-reinforcement-learning-on-gcp-using-hyperparameters-and-cloud-ml-engine-to-best-openai-gym-games)  <br/>
