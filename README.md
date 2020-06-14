@@ -10,9 +10,13 @@ NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable l
 [Arxiv](https://arxiv.org/abs/1911.06932) <br />
 [Google AI Page](https://research.google/pubs/pub48693/) <br />
 
+![Geological Lithology Classes](/assets/img/cond_sr_gan.png)
+
 ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 [Arxiv](https://arxiv.org/abs/1909.03212) <br />
 [Google AI Page](https://research.google/pubs/pub48534/) <br />
+
+![Google Cloud AutoML](/assets/img/google_automl.png)
 
 
 ## Blogs
