@@ -1,9 +1,10 @@
 # Hi, I'm Praneet!
 
-I'm a Research Engineer @ Google DeepMind working on brining the benefits of AI to the world. Prior to this I was working on an exactly similar role @ Googl Cloud.
+I'm a Research Engineer @ Google DeepMind working on brining the benefits of AI to the world. Prior to this I was working on an exactly similar role @ Google Cloud.
 
+![A Snap from London](/assets/images/yaktocat.png)
 
-### Past Publications
+## Publications
 
 NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement"
 [Arxiv](https://arxiv.org/abs/1911.06932) <br />
@@ -14,7 +15,7 @@ ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 [Google AI Page](https://research.google/pubs/pub48534/) <br />
 
 
-### Public Blogs
+### Blogs
 
 Deep reinforcement learning on GCP <br/>
 [Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/deep-reinforcement-learning-on-gcp-using-hyperparameters-and-cloud-ml-engine-to-best-openai-gym-games)  <br/>
