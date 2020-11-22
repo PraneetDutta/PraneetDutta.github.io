@@ -19,7 +19,7 @@ ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 ![Google Cloud AutoML](/assets/img/google_automl.png)
 
 
-## Blogs
+##  Technical Articles
 
 Deep reinforcement learning on GCP <br/>
 [Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/deep-reinforcement-learning-on-gcp-using-hyperparameters-and-cloud-ml-engine-to-best-openai-gym-games)  <br/>
@@ -31,6 +31,11 @@ Better bandit building: Advanced personalization the easy way with AutoML Tables
 Forseti intelligent agents: an open-source anomaly detection module  <br/>
 [Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/forseti-intelligent-agents-an-open-source-anomaly-detection-module)  <br/>
 [Github](https://github.com/forseti-security/forseti-security)  <br/>
+
+##  Stories
+
+Flying United Polaris : Bay Area to Delhi during the pandemic <br/>
+[Blog](https://praneet-d.medium.com/united-polaris-review-bay-area-to-new-delhi-during-the-pandemic-d1dc5a45b535)<br/>
 
 
 <!---
