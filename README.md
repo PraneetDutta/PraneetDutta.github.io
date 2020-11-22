@@ -37,14 +37,14 @@ Forseti intelligent agents: an open-source anomaly detection module  <br/>
 Flying United Polaris : Bay Area to Delhi during the pandemic <br/>
 [Blog](https://praneet-d.medium.com/united-polaris-review-bay-area-to-new-delhi-during-the-pandemic-d1dc5a45b535)<br/>
 
-
+<br/>
 <div id="contact">
-        <h2>Get in Touch</h2>
-        <div id="contact-form">
+        <h2>Get in Touch</h2><br/>
+        <div id="contact-form"><br/>
                 <form action="https://formspree.io/f/xyybprnn" method="POST">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea name="message" placeholder="Type your message" required></textarea>
+                <input type="email" name="_replyto" placeholder="Your email" required><br/><br/>
+                <textarea name="message" placeholder="Type your message" required></textarea><br/><br/>
                 <button type="submit">Send</button>
             </form>
         </div>
