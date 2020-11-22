@@ -2,7 +2,7 @@
 
 I'm a Research Engineer @ Google DeepMind working on brining the benefits of AI to the world. Prior to this I was working on an exactly similar role @ Google Cloud.
 
-![A Snap from London](/assets/img/deepmind_home_page.jpg =100x100)
+![A Snap from London](/assets/img/deepmind_home_page.jpg  | width=100)
 
 ## Publications
 
@@ -10,13 +10,13 @@ NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable l
 [Arxiv](https://arxiv.org/abs/1911.06932) <br />
 [Google AI Page](https://research.google/pubs/pub48693/) <br />
 
-![Geological Lithology Classes](/assets/img/cond_sr_gan.png =50*50)
+![Geological Lithology Classes](/assets/img/cond_sr_gan.png  | width=100)
 
 ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 [Arxiv](https://arxiv.org/abs/1909.03212) <br />
 [Google AI Page](https://research.google/pubs/pub48534/) <br />
 
-![Google Cloud AutoML](/assets/img/google_automl.png =50x50)
+![Google Cloud AutoML](/assets/img/google_automl.png  | width=100)
 
 
 ##  Technical Articles
