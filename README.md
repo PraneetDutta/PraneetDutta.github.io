@@ -1,10 +1,11 @@
 # Hi, I'm Praneet!
 
-I'm a Research Engineer @ Google DeepMind working on brining the benefits of AI to the world. Prior to this I was working on an similar role @ Google Cloud, with enterprise customers
+I'm a Research Engineer @ Google DeepMind working on brining the benefits of AI to the world. Prior to this I was  @ Google Cloud, working with Fortune 500 organizations
 
 ![A Snap from London](/assets/img/deepmind_home_page.jpg)
 
 ## Publications
+
 
 NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement"
 [Arxiv](https://arxiv.org/abs/1911.06932) <br />
@@ -21,16 +22,18 @@ ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 
 ##  Technical Articles
 
-Deep reinforcement learning on GCP <br/>
-[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/deep-reinforcement-learning-on-gcp-using-hyperparameters-and-cloud-ml-engine-to-best-openai-gym-games)  <br/>
+[Google Cloud Blog: Deep reinforcement learning on GCP](https://cloud.google.com/blog/products/ai-machine-learning/deep-reinforcement-learning-on-gcp-using-hyperparameters-and-cloud-ml-engine-to-best-openai-gym-games)  <br/>
 [Github](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/blogs/rl-on-gcp)
 
-Better bandit building: Advanced personalization the easy way with AutoML Tables <br/>
-[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models)  <br/>
 
-Forseti intelligent agents: an open-source anomaly detection module  <br/>
-[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/forseti-intelligent-agents-an-open-source-anomaly-detection-module)  <br/>
+[Google Cloud Blog: Better bandit building: Advanced personalization the easy way with AutoML Tables](https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models)  <br/>
+
+[Google Cloud Blog: Forseti intelligent agents: an open-source anomaly detection module ](https://cloud.google.com/blog/products/ai-machine-learning/forseti-intelligent-agents-an-open-source-anomaly-detection-module)  <br/>
 [Github](https://github.com/forseti-security/forseti-security)  <br/>
+
+## Media
+[Analytics India Magazine: Inside Praneet's Machine Learning Journey from Vellore to Google DeepMind](https://analyticsindiamag.com/inside-praneet-duttas-ml-journey-from-vellore-to-google-deepmind/)  <br/>
+
 
 ##  Stories
 
