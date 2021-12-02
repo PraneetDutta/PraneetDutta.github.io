@@ -2,11 +2,11 @@
 
 I'm a Research Engineer @ Google DeepMind working on bringing the benefits of AI to the world. Prior to this I was @ Google Cloud, working with organizations in leveraging Cloud AI for their industries.
 
-My goal is to optimize the quality of human life making it sustainable for the long term future. Specifically, I'm interested in some of the broader challenges, opportunities of the 21st century. I'm working on and researching areas related to Climate Change, urban pollution monitorining, control, virtual reality moonshots.
+My goal is to optimize the quality of human life making it sustainable for the long term future. Specifically, I'm interested in some of the broader challenges, opportunities of the 21st century. I'm working on and researching areas related to Climate Change, urban pollution monitorining, control, virtual reality moonshots. Through this, I volunteer as an AI advisor for non-profit's on how we can tackle real world problems through the latest scientific advancements. 
 
-I enjoy the intersection of AI and art, and have been dabbling on using GAN's to generate themes of popular works in the field.
+I enjoy the intersection of AI and art, and have been dabbling on using GAN's to generate themes of popular works in the field. 
 
-In my free time, catch me learning the percussion, playing soccer tennis, and hikes along the coast. 
+In my free time, catch me learning the percussion, enjoying a game  of soccer/tennis, and hikes along the coast. 
 
 
 
@@ -61,6 +61,23 @@ IEEE IntelliSys Conference'15, "Engine performance optimization using machine le
 [The Telegraph: The Automated Video Assistant Coach, How DeepMind and Liverpool now want to solve football](https://www.telegraph.co.uk/football/2020/12/04/automated-video-assistant-coach-deepmind-liverpool-now-want/)  <br/>
 
 [Analytics India Magazine: On Making AI Research More Lucrative in India](https://analyticsindiamag.com/on-making-ai-research-more-lucrative-in-india/)  <br/>
+
+
+## Appointments and Volunteering
+
+Technical Program Commitee for:
+NeurIPS(2020-2021)
+ICML(2020-21)
+ICLR(2020-2021)
+CVPR Workshop(2021)
+IEEE Mechatronics Journals
+Springer AI Jounrals
+
+
+Organizing Commitee, AI for Sports Analytics Workshop, ICJAI 2021
+AI Task Force Commitee Member, Confederation of Indian Industry, 2022
+AI Task Force Commitee Member, Confederation of Indian Industry, 2021
+
 
 ##  Stories
 
