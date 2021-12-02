@@ -2,7 +2,11 @@
 
 I'm a Research Engineer @ Google DeepMind working on bringing the benefits of AI to the world. Prior to this I was @ Google Cloud, working with organizations in leveraging Cloud AI for their industries.
 
-My goal is to optimize the quality of human life making it sustainable for the long term future. Specifically, I'm interested in the broader challenges of Climate Change.
+My goal is to optimize the quality of human life making it sustainable for the long term future. Specifically, I'm interested in some of the broader challenges, opportunities of the 21st century. I'm working on and researching areas related to Climate Change, urban pollution monitorining, control, virtual reality moonshots.
+
+I enjoy the intersection of AI and art, and have been dabbling on using GAN's to generate themes of popular works in the field.
+
+In my free time, catch me learning the percussion, playing soccer tennis, and hikes along the coast. 
 
 
 
@@ -10,12 +14,17 @@ My goal is to optimize the quality of human life making it sustainable for the l
 
 ## Publications
 
-Journal of AI Research, "Game Plan: What AI can do for Football, and What Football can do for AI"
+Journal of AI Research, 2021 "Game Plan: What AI can do for Football, and What Football can do for AI" <br />
 [Journal Page](https://www.jair.org/index.php/jair/article/view/12505) <br />
 [DeepMind Blog](https://deepmind.com/research/publications/2021/Game-Plan-What-AI-can-do-for-Football-and-What-Football-can-do-for-AI) <br />
 
+Arxiv,2021(Under review) "Growing Cosine Unit: A Novel Oscillatory Activation Function That Can Speedup Training and Reduce Parameters in Convolutional Neural Networks" <br />
+[Arxiv](https://arxiv.org/pdf/2108.12943.pdf) <br />
 
-NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement"
+Arxiv,2021(Under review) "Biologically Inspired Oscillating Activation Functions Can Bridge the Performance Gap between Biological and Artificial Neurons" <br />
+[Arxiv](https://arxiv.org/pdf/2111.04020.pdf) <br />
+
+NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement" <br />
 [Arxiv](https://arxiv.org/abs/1911.06932) <br />
 [Google AI Page](https://research.google/pubs/pub48693/) <br />
 
@@ -24,9 +33,14 @@ NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable l
 ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 [Arxiv](https://arxiv.org/abs/1909.03212) <br />
 [Google AI Page](https://research.google/pubs/pub48534/) <br />
-
 ![Google Cloud AutoML](/assets/img/google_automl.png)
 
+
+IEEE IntelliSys Conference'15, "Applying regression models to calculate the Q factor of multiplexed video signal based on Optisystem" <br />
+[IEEE Library](https://ieeexplore.ieee.org/document/7361145) <br />
+
+IEEE IntelliSys Conference'15, "Engine performance optimization using machine learning techniques" <br />
+[IEEE Library](https://ieeexplore.ieee.org/document/7361134) <br />
 
 ##  Technical Articles
 
