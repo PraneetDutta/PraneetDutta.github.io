@@ -1,10 +1,18 @@
 # Hi, I'm Praneet!
 
-I'm a Research Engineer @ Google DeepMind working on brining the benefits of AI to the world. Prior to this I was  @ Google Cloud, working with Fortune 500 organizations
+I'm a Research Engineer @ Google DeepMind working on bringing the benefits of AI to the world. Prior to this I was @ Google Cloud, working with organizations in leveraging Cloud AI for their industries.
+
+My goal is to optimize the quality of human life making it sustainable for the long term future. Specifically, I'm interested in the broader challenges of Climate Change.
+
+
 
 ![A Snap from London](/assets/img/deepmind_home_page.jpg)
 
 ## Publications
+
+Journal of AI Research, "Game Plan: What AI can do for Football, and What Football can do for AI"
+[Journal Page](https://www.jair.org/index.php/jair/article/view/12505) <br />
+[DeepMind Blog](https://deepmind.com/research/publications/2021/Game-Plan-What-AI-can-do-for-Football-and-What-Football-can-do-for-AI) <br />
 
 
 NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement"
@@ -34,6 +42,11 @@ ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 ## Media
 [Analytics India Magazine: Inside Praneet's Machine Learning Journey from Vellore to Google DeepMind](https://analyticsindiamag.com/inside-praneet-duttas-ml-journey-from-vellore-to-google-deepmind/)  <br/>
 
+[Wired Magazine: Now DeepMind is using AI to transform football](https://www.wired.co.uk/article/deepmind-football-liverpool-ai)  <br/>
+
+[The Telegraph: The Automated Video Assistant Coach, How DeepMind and Liverpool now want to solve football](https://www.telegraph.co.uk/football/2020/12/04/automated-video-assistant-coach-deepmind-liverpool-now-want/)  <br/>
+
+[Analytics India Magazine: On Making AI Research More Lucrative in India](https://analyticsindiamag.com/on-making-ai-research-more-lucrative-in-india/)  <br/>
 
 ##  Stories
 
