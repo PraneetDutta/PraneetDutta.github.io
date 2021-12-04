@@ -17,9 +17,12 @@ In my free time, catch me learning the percussion, enjoying a game  of soccer/te
 Journal of AI Research, 2021 "Game Plan: What AI can do for Football, and What Football can do for AI" <br />
 [Journal Page](https://www.jair.org/index.php/jair/article/view/12505) <br />
 [DeepMind Blog](https://deepmind.com/research/publications/2021/Game-Plan-What-AI-can-do-for-Football-and-What-Football-can-do-for-AI) <br />
+ <br />
+![Liverpool Penalty](/assets/img/pose_estimation.png)
 
 Arxiv,2021(Under review) "Growing Cosine Unit: A Novel Oscillatory Activation Function That Can Speedup Training and Reduce Parameters in Convolutional Neural Networks" <br />
 [Arxiv](https://arxiv.org/pdf/2108.12943.pdf) <br />
+![GCU form](/assets/img/gcu.png)
 
 Arxiv,2021(Under review) "Biologically Inspired Oscillating Activation Functions Can Bridge the Performance Gap between Biological and Artificial Neurons" <br />
 [Arxiv](https://arxiv.org/pdf/2111.04020.pdf) <br />
