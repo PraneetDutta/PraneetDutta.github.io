@@ -53,7 +53,7 @@ NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable l
 ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 [Arxiv](https://arxiv.org/abs/1909.03212) <br />
 [Google AI Page](https://research.google/pubs/pub48534/) <br />
-![Google Cloud AutoML](/assets/img/google_automl.png)
+![Google Cloud AutoML](/assets/img/contextual_bandits.png)
 
 <br />
 <br />
@@ -75,15 +75,30 @@ IEEE IntelliSys Conference'15, "Engine performance optimization using machine le
 
 [Google Cloud Blog: Deep reinforcement learning on GCP](https://cloud.google.com/blog/products/ai-machine-learning/deep-reinforcement-learning-on-gcp-using-hyperparameters-and-cloud-ml-engine-to-best-openai-gym-games)  <br/>
 [Github](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/blogs/rl-on-gcp)
+![DeepRL on GCP](/assets/img/deeprl_gcp.png)
+<br />
+<br />
+<br />
+
 
 
 [Google Cloud Blog: Better bandit building: Advanced personalization the easy way with AutoML Tables](https://cloud.google.com/blog/products/ai-machine-learning/how-to-build-better-contextual-bandits-machine-learning-models)  <br/>
+![DeepRL on GCP](/assets/img/automl_blog.png)
+<br />
+<br />
+<br />
 
 [Google Cloud Blog: Forseti intelligent agents: an open-source anomaly detection module ](https://cloud.google.com/blog/products/ai-machine-learning/forseti-intelligent-agents-an-open-source-anomaly-detection-module)  <br/>
 [Github](https://github.com/forseti-security/forseti-security)  <br/>
+![Forseti Agents](/assets/img/forseti_agents.png)
+<br />
+<br />
+<br />
 
 ## Media
 [Analytics India Magazine: Inside Praneet's Machine Learning Journey from Vellore to Google DeepMind](https://analyticsindiamag.com/inside-praneet-duttas-ml-journey-from-vellore-to-google-deepmind/)  <br/>
+
+
 
 [Wired Magazine: Now DeepMind is using AI to transform football](https://www.wired.co.uk/article/deepmind-football-liverpool-ai)  <br/>
 
