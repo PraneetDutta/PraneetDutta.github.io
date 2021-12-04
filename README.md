@@ -17,15 +17,28 @@ In my free time, catch me learning the percussion, enjoying a game  of soccer/te
 Journal of AI Research, 2021 "Game Plan: What AI can do for Football, and What Football can do for AI" <br />
 [Journal Page](https://www.jair.org/index.php/jair/article/view/12505) <br />
 [DeepMind Blog](https://deepmind.com/research/publications/2021/Game-Plan-What-AI-can-do-for-Football-and-What-Football-can-do-for-AI) <br />
- <br />
 ![Liverpool Penalty](/assets/img/pose_estimation.png)
+
+ <br />
+<br />
+ <br />
 
 Arxiv,2021(Under review) "Growing Cosine Unit: A Novel Oscillatory Activation Function That Can Speedup Training and Reduce Parameters in Convolutional Neural Networks" <br />
 [Arxiv](https://arxiv.org/pdf/2108.12943.pdf) <br />
-![GCU form](/assets/img/gcu.png)
+![Growing Cosine Unit(GCU) form](/assets/img/gcu.png)
+
+ <br />
+<br />
+<br />
 
 Arxiv,2021(Under review) "Biologically Inspired Oscillating Activation Functions Can Bridge the Performance Gap between Biological and Artificial Neurons" <br />
 [Arxiv](https://arxiv.org/pdf/2111.04020.pdf) <br />
+![Shifted Sinc Unit(SSU activation)](/assets/img/ssc.png)
+
+<br />
+<br />
+<br />
+
 
 NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement" <br />
 [Arxiv](https://arxiv.org/abs/1911.06932) <br />
@@ -33,10 +46,18 @@ NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable l
 
 ![Geological Lithology Classes](/assets/img/cond_sr_gan.png)
 
+<br />
+<br />
+<br />
+
 ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 [Arxiv](https://arxiv.org/abs/1909.03212) <br />
 [Google AI Page](https://research.google/pubs/pub48534/) <br />
 ![Google Cloud AutoML](/assets/img/google_automl.png)
+
+<br />
+<br />
+<br />
 
 
 IEEE IntelliSys Conference'15, "Applying regression models to calculate the Q factor of multiplexed video signal based on Optisystem" <br />
@@ -44,6 +65,11 @@ IEEE IntelliSys Conference'15, "Applying regression models to calculate the Q fa
 
 IEEE IntelliSys Conference'15, "Engine performance optimization using machine learning techniques" <br />
 [IEEE Library](https://ieeexplore.ieee.org/document/7361134) <br />
+![Formula Student Engine Optimization](/assets/img/pravega_racing.png)
+
+<br />
+<br />
+<br />
 
 ##  Technical Articles
 
