@@ -10,7 +10,7 @@ In my free time, catch me learning the percussion, enjoying a game  of soccer/te
 
 
 
-![A Snap from London](/assets/img/deepmind_home_page.jpg)
+![A Snap from London](/assets/img/deepmind_home_page.jpg=200*200)
 
 ## Publications
 
