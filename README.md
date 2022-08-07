@@ -14,7 +14,15 @@ In my free time, catch me learning the percussion, enjoying a game  of soccer/te
 
 ## Publications
 
-Journal of AI Research, 2021 "Game Plan: What AI can do for Football, and What Football can do for AI" <br />
+"Semi-analytical Industrial Cooling System Model for Reinforcement Learning"
+Arxiv
+[Paper](https://arxiv.org/pdf/2207.13131.pdf) <br />
+[DeepMind Blog](https://www.deepmind.com/publications/semi-analytical-industrial-cooling-system-model-for-reinforcement-learning)
+![Chiller Plant](/assets/img/Chiller_Plant.png)
+ <br />
+
+"Game Plan: What AI can do for Football, and What Football can do for AI" <br />
+Journal of AI Research
 [Journal Page](https://www.jair.org/index.php/jair/article/view/12505) <br />
 [DeepMind Blog](https://deepmind.com/research/publications/2021/Game-Plan-What-AI-can-do-for-Football-and-What-Football-can-do-for-AI) <br />
 ![Liverpool Penalty](/assets/img/pose_estimation.png)
@@ -23,7 +31,8 @@ Journal of AI Research, 2021 "Game Plan: What AI can do for Football, and What F
 <br />
  <br />
 
-Arxiv,2021(Under review) "Growing Cosine Unit: A Novel Oscillatory Activation Function That Can Speedup Training and Reduce Parameters in Convolutional Neural Networks" <br />
+"Growing Cosine Unit: A Novel Oscillatory Activation Function That Can Speedup Training and Reduce Parameters in Convolutional Neural Networks" <br />
+Arxiv,2021(Under review)
 [Arxiv](https://arxiv.org/pdf/2108.12943.pdf) <br />
 ![Growing Cosine Unit(GCU) form](/assets/img/gcu.png)
 
@@ -31,7 +40,8 @@ Arxiv,2021(Under review) "Growing Cosine Unit: A Novel Oscillatory Activation Fu
 <br />
 <br />
 
-Arxiv,2021(Under review) "Biologically Inspired Oscillating Activation Functions Can Bridge the Performance Gap between Biological and Artificial Neurons" <br />
+"Biologically Inspired Oscillating Activation Functions Can Bridge the Performance Gap between Biological and Artificial Neurons" <br />
+Arxiv 2021(Under review) 
 [Arxiv](https://arxiv.org/pdf/2111.04020.pdf) <br />
 ![Shifted Sinc Unit(SSU activation)](/assets/img/ssc.png)
 
@@ -40,7 +50,8 @@ Arxiv,2021(Under review) "Biologically Inspired Oscillating Activation Functions
 <br />
 
 
-NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement" <br />
+"3D Conditional Generative Adversarial Networks to enable large-scale seismic image enhancement" <br />
+NeurIPS Workshop'19,
 [Arxiv](https://arxiv.org/abs/1911.06932) <br />
 [Google AI Page](https://research.google/pubs/pub48693/) <br />
 
@@ -50,7 +61,8 @@ NeurIPS Workshop'19, "3D Conditional Generative Adversarial Networks to enable l
 <br />
 <br />
 
-ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
+"AutoML for Contextual Bandits" <br />
+ACM RecSys workshop'19,
 [Arxiv](https://arxiv.org/abs/1909.03212) <br />
 [Google AI Page](https://research.google/pubs/pub48534/) <br />
 ![Google Cloud AutoML](/assets/img/contextual_bandits.png)
@@ -59,8 +71,8 @@ ACM RecSys workshop'19, "AutoML for Contextual Bandits" <br />
 <br />
 <br />
 
-
-IEEE IntelliSys Conference'15, "Applying regression models to calculate the Q factor of multiplexed video signal based on Optisystem" <br />
+ "Applying regression models to calculate the Q factor of multiplexed video signal based on Optisystem" <br />
+IEEE IntelliSys Conference'15
 [IEEE Library](https://ieeexplore.ieee.org/document/7361145) <br />
 
 IEEE IntelliSys Conference'15, "Engine performance optimization using machine learning techniques" <br />
