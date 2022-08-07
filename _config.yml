@@ -1,8 +1,0 @@
-  # Google Analytics
-google_analytics: UA-214286318-2
-theme: jekyll-theme-minimal
-include:
-  - "_img"
-plugins:
-  - jekyll-tabs
-
