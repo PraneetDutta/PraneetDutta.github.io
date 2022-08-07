@@ -18,7 +18,7 @@ In my free time, catch me learning the percussion, enjoying a game  of soccer/te
 Arxiv
 [Paper](https://arxiv.org/pdf/2207.13131.pdf) <br />
 [DeepMind Blog](https://www.deepmind.com/publications/semi-analytical-industrial-cooling-system-model-for-reinforcement-learning)
-![Chiller Plant](/assets/img/Chiller_Plant.png)
+![Chiller Plant](/assets/img/chiller_Plant.png)
  <br />
 
 "Game Plan: What AI can do for Football, and What Football can do for AI" <br />
