@@ -190,18 +190,26 @@ a:hover {
 }
 
 .line-mf {
-  width: 40px;
+  width: 80px;
   height: 5px;
   background-color: rgb(63, 167, 150);
   margin: 0 auto;
 }
 
 #awards .line-mf {
-  background-color: rgb(42, 9, 68);
+  background-color: rgb(160, 132, 207);
 }
 
-#blog .line-mf {
-  background-color: rgb(161, 0, 53);
+#community .line-mf {
+  background-color: rgb(242, 147, 147);
+}
+
+#hobbies .line-mf {
+  background-color: rgb(157, 214, 223);
+}
+
+#media .line-mf {
+  background-color: #243A73;
 }
 
 /*--/ Title Left /--*/
@@ -794,6 +802,18 @@ a:hover {
 .navbar-mobile .dropdown>.dropdown-active {
   display: block;
 }
+
+#header.header-scrolled .navbar-mobile>ul>li>a, 
+#header.header-scrolled .navbar-mobile>ul>li>a:focus {
+  color: rgb(18, 91, 80) !important;
+}
+
+.header-scrolled .navbar-mobile a:hover:before,
+.header-scrolled .navbar-mobile li:hover>a:before,
+.header-scrolled .navbar-mobile .active:before {
+  background-color: rgb(18, 91, 80) !important;
+}
+
 
 /*--------------------------------------------------------------
 # Hero Section
