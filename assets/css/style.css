@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #f5f5f5;
+  background-color: rgb(250, 245, 228);
   color: #4e4e4e;
 }
 
@@ -57,13 +57,37 @@ a:hover {
 .work-box,
 .service-box,
 .paralax-mf {
-  box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 13px 8px -10px rgb(0, 0, 0, 0.1);
 }
+
 
 .box-shadow-a,
 .button:hover {
   text-decoration: none;
   box-shadow: 0 0 0 4px #cde1f8;
+}
+
+#about .about {
+  /*background-color: rgb(248, 180, 0, 0.8);*/
+}
+
+#papers .work-img,
+#papers .work-content {
+  /*background-color: rgb(248, 180, 0, 0.5);*/
+}
+
+#articles .work-img,
+#articles .work-content {
+  /*background-color: rgb(148, 180, 159, 0.15);*/
+}
+
+#awards .awards {
+  /*background-color: rgb(223, 120, 97, 0.05);*/
+}
+
+#blog .work-img,
+#blog .work-content {
+  /*background-color: rgb(236, 179, 144, 0.2);*/
 }
 
 .display-5 {
@@ -168,8 +192,16 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: rgb(63, 167, 150);
   margin: 0 auto;
+}
+
+#awards .line-mf {
+  background-color: rgb(42, 9, 68);
+}
+
+#blog .line-mf {
+  background-color: rgb(161, 0, 53);
 }
 
 /*--/ Title Left /--*/
@@ -186,7 +218,7 @@ a:hover {
   content: "";
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: rgb(248, 180, 0);
   width: 100px;
   bottom: -12px;
 }
@@ -482,7 +514,7 @@ a:hover {
 }
 
 #header.header-scrolled {
-  background: rgba(0, 0, 0, 0.9);
+  background-color: rgb(18, 91, 80);
   padding: 12px 0;
 }
 
@@ -513,12 +545,21 @@ a:hover {
   padding: 10px 0 10px 30px;
 }
 
+.navbar a {
+  color: rgb(18, 91, 80);
+}
+
+.navbar a:focus {
+  color: rgb(18, 91, 80);
+
+}
+
 .navbar a,
 .navbar a:focus {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: #fff;
+  color: rgb(18, 91, 80) !important;
   font-size: 16px;
   font-weight: 600;
   padding: 0;
@@ -536,6 +577,18 @@ a:hover {
   margin-left: 5px;
 }
 
+.navbar a:hover,
+.navbar .active,
+.navbar .active:focus,
+.navbar li:hover>a {
+  color: #fff;
+}
+
+#header.header-scrolled .navbar>ul>li>a,
+#header.header-scrolled .navbar>ul>li>a:focus {
+  color: #fff !important;
+}
+
 .navbar>ul>li>a:before {
   content: "";
   position: absolute;
@@ -544,7 +597,7 @@ a:hover {
   bottom: -6px;
   left: 0;
   width: 0;
-  background-color: #fff;
+  background-color: rgb(18, 91, 80);
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
@@ -552,15 +605,14 @@ a:hover {
 .navbar a:hover:before,
 .navbar li:hover>a:before,
 .navbar .active:before {
-  visibility: visible;
+  visibility: visible !important;
   width: 80%;
 }
 
-.navbar a:hover,
-.navbar .active,
-.navbar .active:focus,
-.navbar li:hover>a {
-  color: #fff;
+.header-scrolled .navbar a:hover:before,
+.header-scrolled .navbar li:hover>a:before,
+.header-scrolled .navbar .active:before {
+  background-color: #fff !important;
 }
 
 .navbar .dropdown ul {
@@ -1254,6 +1306,10 @@ a:hover {
 @media (min-width: 767px) {
   .card-blog {
     margin-bottom: 3rem;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background-color: #fff;
+    padding: 3rem;
   }
 }
 
