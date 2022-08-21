@@ -1024,6 +1024,25 @@ a:hover {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+  flex-wrap: wrap;
+}
+.row > [class*='col-'] {
+  display: flex;
+  /*flex-direction: column;*/
+}
+
+.row > [class*='col-'] h2,
+.row > [class*='col-'] div {
+  display: block;
+}
+
+
+
 .work-box {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
